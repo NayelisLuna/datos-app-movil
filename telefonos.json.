@@ -1,0 +1,233 @@
+[
+  {
+    "Marca": "Samsung",
+    "Modelo": "Galaxy S24 Ultra",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/1024px-Samsung_Logo.svg.png",
+    "Imagen": "https://images.samsung.com/is/image/samsung/p6pim/es/2401/gallery/es-galaxy-s24-ultra-sm-s928bztgeub-539423512?$650_519_PNG$",
+    "Procesador": "Snapdragon 8 Gen 3 for Galaxy",
+    "RAM": "12 GB",
+    "Almacenamiento": "512 GB",
+    "Camara": "200 MP con IA",
+    "Precio": 1459
+  },
+  {
+    "Marca": "Apple",
+    "Modelo": "iPhone 15 Pro Max",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/800px-Apple_logo_black.svg.png",
+    "Imagen": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-bluetitanium?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692845699432",
+    "Procesador": "A17 Pro",
+    "RAM": "8 GB",
+    "Almacenamiento": "256 GB",
+    "Camara": "48 MP Principal",
+    "Precio": 1469
+  },
+  {
+    "Marca": "Google",
+    "Modelo": "Pixel 8 Pro",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
+    "Imagen": "https://lh3.googleusercontent.com/pw/AP1GczODC6Ea5U3J2R5QyX1oY8g_7h7y-8B1K8W7Z2w7o9C3X3J-G1Yw_Z5t9A8c-d2jX2rY-Q=w1080-h1080-s-no?authuser=0",
+    "Procesador": "Google Tensor G3",
+    "RAM": "12 GB",
+    "Almacenamiento": "256 GB",
+    "Camara": "50 MP con IA",
+    "Precio": 1099
+  },
+  {
+    "Marca": "Samsung",
+    "Modelo": "Galaxy S24+",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/1024px-Samsung_Logo.svg.png",
+    "Imagen": "https://images.samsung.com/is/image/samsung/p6pim/es/2401/gallery/es-galaxy-s24-plus-sm-s926bzkgeub-539422849?$650_519_PNG$",
+    "Procesador": "Exynos 2400",
+    "RAM": "12 GB",
+    "Almacenamiento": "256 GB",
+    "Camara": "50 MP Principal",
+    "Precio": 1159
+  },
+  {
+    "Marca": "Xiaomi",
+    "Modelo": "14 Ultra",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Xiaomi_logo_%282021-%29.svg/1024px-Xiaomi_logo_%282021-%29.svg.png",
+    "Imagen": "https://i02.appmifile.com/83_operator_sg/21/09/2023/c39a061b4021571216d1a2c5319857d4.png?f=webp",
+    "Procesador": "Snapdragon 8 Gen 3",
+    "RAM": "16 GB",
+    "Almacenamiento": "512 GB",
+    "Camara": "50 MP Leica Quad",
+    "Precio": 1499
+  },
+  {
+    "Marca": "OnePlus",
+    "Modelo": "12",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/OnePlus_logo.svg/1024px-OnePlus_logo.svg.png",
+    "Imagen": "https://oasis.op-assets.com/content/dam/oasis/page/2023/cn/12-launch/specs/black.png",
+    "Procesador": "Snapdragon 8 Gen 3",
+    "RAM": "16 GB",
+    "Almacenamiento": "512 GB",
+    "Camara": "50 MP Hasselblad",
+    "Precio": 969
+  },
+  {
+    "Marca": "Apple",
+    "Modelo": "iPhone 15",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/800px-Apple_logo_black.svg.png",
+    "Imagen": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692923777972",
+    "Procesador": "A16 Bionic",
+    "RAM": "6 GB",
+    "Almacenamiento": "128 GB",
+    "Camara": "48 MP Principal",
+    "Precio": 959
+  },
+  {
+    "Marca": "Samsung",
+    "Modelo": "Galaxy A55 5G",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/1024px-Samsung_Logo.svg.png",
+    "Imagen": "https://images.samsung.com/is/image/samsung/p6pim/es/2402/gallery/es-galaxy-a55-5g-sm-a556bzkdeub-539750539?$650_519_PNG$",
+    "Procesador": "Exynos 1480",
+    "RAM": "8 GB",
+    "Almacenamiento": "256 GB",
+    "Camara": "50 MP Principal",
+    "Precio": 479
+  },
+  {
+    "Marca": "Honor",
+    "Modelo": "Magic6 Pro",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Honor_Logo.svg/1280px-Honor_Logo.svg.png",
+    "Imagen": "https://www.hihonor.com/content/dam/honor/global/product-list/honor-magic6-pro/honor-magic6-pro-black.png",
+    "Procesador": "Snapdragon 8 Gen 3",
+    "RAM": "12 GB",
+    "Almacenamiento": "512 GB",
+    "Camara": "50 MP Falcon, Tele 180MP",
+    "Precio": 1299
+  },
+  {
+    "Marca": "Google",
+    "Modelo": "Pixel 8a",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
+    "Imagen": "https://lh3.googleusercontent.com/pw/AP1GczN5h_2R4w_V9n8Z_g6m_y_Z9j_m_f_3Y_n-g_x_w=w1080-h1080-s-no?authuser=0",
+    "Procesador": "Google Tensor G3",
+    "RAM": "8 GB",
+    "Almacenamiento": "128 GB",
+    "Camara": "64 MP con IA",
+    "Precio": 549
+  },
+  {
+    "Marca": "Xiaomi",
+    "Modelo": "Redmi Note 13 Pro+",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Xiaomi_logo_%282021-%29.svg/1024px-Xiaomi_logo_%282021-%29.svg.png",
+    "Imagen": "https://i02.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0/pms_1694762963.15781989.png",
+    "Procesador": "Dimensity 7200-Ultra",
+    "RAM": "12 GB",
+    "Almacenamiento": "512 GB",
+    "Camara": "200 MP Principal",
+    "Precio": 449
+  },
+  {
+    "Marca": "Nothing",
+    "Modelo": "Phone (2a)",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nothing_logo.svg/1200px-Nothing_logo.svg.png",
+    "Imagen": "https://eu.nothing.tech/cdn/shop/files/Phone-2a-Black-1_976beca3-2287-432d-930b-a01b7a781b89.png?v=1708960241&width=1080",
+    "Procesador": "Dimensity 7200 Pro",
+    "RAM": "8 GB",
+    "Almacenamiento": "128 GB",
+    "Camara": "50 MP Dual",
+    "Precio": 329
+  },
+  {
+    "Marca": "Samsung",
+    "Modelo": "Galaxy Z Fold5",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/1024px-Samsung_Logo.svg.png",
+    "Imagen": "https://images.samsung.com/is/image/samsung/p6pim/es/2307/gallery/es-galaxy-z-fold5-f946-sm-f946bzkbeub-537330528?$650_519_PNG$",
+    "Procesador": "Snapdragon 8 Gen 2 for Galaxy",
+    "RAM": "12 GB",
+    "Almacenamiento": "512 GB",
+    "Camara": "50 MP Plegable",
+    "Precio": 1909
+  },
+  {
+    "Marca": "Motorola",
+    "Modelo": "Edge 50 Pro",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Motorola_logo.svg/1024px-Motorola_logo.svg.png",
+    "Imagen": "https://www.motorola.es/sites/default/files/styles/product_image_regular_desktop_2x/public/2024-03/motorola-edge-50-pro-pdp-render-luxe-lavender-01.png?itok=8w7_0X4T",
+    "Procesador": "Snapdragon 7 Gen 3",
+    "RAM": "12 GB",
+    "Almacenamiento": "512 GB",
+    "Camara": "50 MP con IA, Pantone",
+    "Precio": 699
+  },
+  {
+    "Marca": "Sony",
+    "Modelo": "Xperia 1 VI",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sony_logo.svg/1024px-Sony_logo.svg.png",
+    "Imagen": "https://www.sony.es/image/8c06708b9815414f85e54d898514995c?fmt=png-alpha&wid=1400",
+    "Procesador": "Snapdragon 8 Gen 3",
+    "RAM": "12 GB",
+    "Almacenamiento": "256 GB",
+    "Camara": "48MP Exmor T, Tele Macro",
+    "Precio": 1399
+  },
+  {
+    "Marca": "ASUS",
+    "Modelo": "ROG Phone 8 Pro",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Asus_logo.svg/1024px-Asus_logo.svg.png",
+    "Imagen": "https://rog.asus.com/media/170366601614.webp",
+    "Procesador": "Snapdragon 8 Gen 3",
+    "RAM": "24 GB",
+    "Almacenamiento": "1 TB",
+    "Camara": "50 MP, Gimbal",
+    "Precio": 1499
+  },
+  {
+    "Marca": "Apple",
+    "Modelo": "iPhone SE (2022)",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/800px-Apple_logo_black.svg.png",
+    "Imagen": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-se-finish-select-202207-product-red?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1655317793198",
+    "Procesador": "A15 Bionic",
+    "RAM": "4 GB",
+    "Almacenamiento": "64 GB",
+    "Camara": "12 MP Principal",
+    "Precio": 529
+  },
+  {
+    "Marca": "Xiaomi",
+    "Modelo": "Poco F6 Pro",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Xiaomi_logo_%282021-%29.svg/1024px-Xiaomi_logo_%282021-%29.svg.png",
+    "Imagen": "https://i02.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0/pms_1716434458.1251848.png",
+    "Procesador": "Snapdragon 8 Gen 2",
+    "RAM": "16 GB",
+    "Almacenamiento": "1 TB",
+    "Camara": "50 MP Light Fusion 800",
+    "Precio": 599
+  },
+  {
+    "Marca": "OnePlus",
+    "Modelo": "Nord 3 5G",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/OnePlus_logo.svg/1024px-OnePlus_logo.svg.png",
+    "Imagen": "https://oasis.op-assets.com/content/dam/oasis/page/nord-3-5g/specs/green.png",
+    "Procesador": "Dimensity 9000",
+    "RAM": "16 GB",
+    "Almacenamiento": "256 GB",
+    "Camara": "50 MP Sony IMX890",
+    "Precio": 449
+  },
+  {
+    "Marca": "Motorola",
+    "Modelo": "Moto G84 5G",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Motorola_logo.svg/1024px-Motorola_logo.svg.png",
+    "Imagen": "https://www.motorola.es/sites/default/files/styles/product_image_regular_desktop_2x/public/2023-08/motorola-g84-pdp-render-viva-magenta-01.png?itok=fL2Y-9wI",
+    "Procesador": "Snapdragon 695",
+    "RAM": "12 GB",
+    "Almacenamiento": "256 GB",
+    "Camara": "50 MP Ultra Pixel",
+    "Precio": 299
+  },
+  {
+    "Marca": "Honor",
+    "Modelo": "90 Lite",
+    "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Honor_Logo.svg/1280px-Honor_Logo.svg.png",
+    "Imagen": "https://www.hihonor.com/content/dam/honor/global/product-list/honor-90-lite/honor-90-lite-cyan.png",
+    "Procesador": "Dimensity 6020",
+    "RAM": "8 GB",
+    "Almacenamiento": "256 GB",
+    "Camara": "100 MP Principal",
+    "Precio": 249
+  }
+]
