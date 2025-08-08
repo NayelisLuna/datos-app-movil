@@ -27,7 +27,7 @@
     "Almacenamiento": "256 GB",
     "Camara": "48 + 12 + 12 Mpx",
     "Procesador": "Apple A16 Bionic Hexa-core (4 nm)",
-    "Precio": 72850
+    "Precio": 72850.00
   },
   {
     "Marca": "APPLE",
@@ -58,5 +58,35 @@
     "Almacenamiento": "256 GB",
     "Camara": "50MP",
     "Precio": 18490.00
+  },
+  {
+    "Marca": "SAMSUNG",
+    "Modelo": "GALAXY A22",
+    "Imagen": "https://m.media-amazon.com/images/I/61Bp1BiBMjL._AC_SX679_.jpg",
+    "Procesador": "Octa-Core 2GHz, 1.8GHz",
+    "RAM": "4GB | 6GB",
+    "Almacenamiento": "64GB | 128GB",
+    "Camara": "48.0 MP",
+    "Precio": 8500.00
+  },
+  {
+    "Marca": "SAMSUNG",
+    "Modelo": "GALAXY S25 ULTRA",
+    "Imagen": "https://casacuesta.com/media/catalog/product/cache/fde49a4ea9a339628caa0bc56aea00ff/3/3/3351064-1__1741045029.jpg",
+    "Procesador": "Octa-Core @ 4.47GHz & 3.53GHz",
+    "RAM": "12GB",
+    "Almacenamiento": "512GB",
+    "Camara": "200MP",
+    "Precio": 102590.00
+  },
+  {
+    "Marca": "HONOR",
+    "Modelo": "HONOR 200 LITE",
+    "Imagen": "https://www.honor.com/content/dam/honor/es/products/smartphone/honor-200-lite/assets/honor200lite-share.png",
+    "Procesador": "Octa Core @2.4GHz & 2.0GHz",
+    "RAM": "8GB + 8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "108MP",
+    "Precio": 19490.00
   }
 ]
