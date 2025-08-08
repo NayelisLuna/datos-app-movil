@@ -1,302 +1,62 @@
 [
   {
-    "marca": "Samsung",
-    "modelo": "Galaxy S24 Ultra",
-    "capacidad de memoria ram": "12 GB",
-    "precio": 86990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/s/a/samsung-galaxy-s24-ultra-gris-titanio-01.webp",
-    "almacenamiento": "256 GB",
-    "camara": "Principal 200MP + Teleobjetivo",
-    "procesador": "Snapdragon 8 Gen 3 for Galaxy"
+    "Marca": "Samsung",
+    "Modelo": "Galaxy S24 Ultra",
+    "Imagen": "https://m.media-amazon.com/images/I/717Q2swzhBL._UF1000,1000_QL80_.jpg",
+    "Procesador": "Snapdragon 8 Gen 3 for Galaxy",
+    "RAM": "12 GB",
+    "Almacenamiento": "512 GB",
+    "Camara": "200 MP con IA",
+    "Precio": 94990.00
   },
   {
-    "marca": "Apple",
-    "modelo": "iPhone 15 Pro Max",
-    "capacidad de memoria ram": "8 GB",
-    "precio": 89990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/i/p/iphone-15-pro-max-natural-titanium-01.webp",
-    "almacenamiento": "256 GB",
-    "camara": "Principal 48MP + Teleobjetivo 5x",
-    "procesador": "A17 Pro"
+    "Marca": "APPLE",
+    "Modelo": "IPHONE 13",
+    "Imagen": "https://www.hemfrance.com/29679-large_default/iphone-13-61-512-gb-4-gb-ram-rojo.jpg",
+    "Procesador": "A15 Bionic",
+    "RAM": "4GB",
+    "Almacenamiento": "128GB",
+    "Camara": "12MP",
+    "Precio": 49790.01
   },
   {
-    "marca": "Samsung",
-    "modelo": "Galaxy Z Fold5",
-    "capacidad de memoria ram": "12 GB",
-    "precio": 118990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/s/a/samsung-galaxy-z-fold5-azul-claro-01.webp",
-    "almacenamiento": "512 GB",
-    "camara": "Principal 50MP + Gran Angular",
-    "procesador": "Snapdragon 8 Gen 2 for Galaxy"
+    "Marca": "APPLE",
+    "Modelo": "IPHONE 14 PRO MAX",
+    "Imagen": "https://cdn.hooli.com.do/wp-content/uploads/2024/06/25193430/front-5.png",
+    "RAM": "6GB",
+    "Almacenamiento": "256 GB",
+    "Camara": "48 + 12 + 12 Mpx",
+    "Procesador": "Apple A16 Bionic Hexa-core (4 nm)",
+    "Precio": 72850
   },
   {
-    "marca": "Samsung",
-    "modelo": "Galaxy Z Flip5",
-    "capacidad de memoria ram": "8 GB",
-    "precio": 68990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/s/a/samsung-galaxy-z-flip5-menta-01.webp",
-    "almacenamiento": "512 GB",
-    "camara": "Principal 12MP + Gran Angular",
-    "procesador": "Snapdragon 8 Gen 2 for Galaxy"
+    "Marca": "APPLE",
+    "Modelo": "IPHONE 15 PRO MAX",
+    "Imagen": "https://cdn.hooli.com.do/wp-content/uploads/2024/11/06115231/front-4.jpg",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "48MP",
+    "Procesador": "A17 Pro",
+    "Precio": 91290.00
   },
   {
-    "marca": "Apple",
-    "modelo": "iPhone 15",
-    "capacidad de memoria ram": "6 GB",
-    "precio": 57990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/i/p/iphone-15-rosado-01.webp",
-    "almacenamiento": "128 GB",
-    "camara": "Principal 48MP",
-    "procesador": "A16 Bionic"
+    "Marca": "APPLE",
+    "Modelo": "IPHONE 15 PLUS",
+    "Imagen": "https://www.hemfrance.com/35097-large_default/iphone-15-plus-67-256-gb-6-gb-ram-negro.jpg",
+    "RAM": "6GB",
+    "Almacenamiento": "256 GB",
+    "Camara": "48 + 12 Mpx",
+    "Procesador": "",
+    "Precio": 67990.00
   },
   {
-    "marca": "Samsung",
-    "modelo": "Galaxy A55",
-    "capacidad de memoria ram": "8 GB",
-    "precio": 29990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/s/a/samsung-galaxy-a55-5g-azul-oscuro-01.webp",
-    "almacenamiento": "256 GB",
-    "camara": "Principal 50MP + Gran Angular",
-    "procesador": "Exynos 1480"
-  },
-  {
-    "marca": "Honor",
-    "modelo": "Magic6 Lite",
-    "capacidad de memoria ram": "8 GB",
-    "precio": 26990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/h/o/honor-magic6-lite-5g-naranja-solar-01.webp",
-    "almacenamiento": "256 GB",
-    "camara": "Principal 108MP",
-    "procesador": "Snapdragon 6 Gen 1"
-  },
-  {
-    "marca": "Samsung",
-    "modelo": "Galaxy A35",
-    "capacidad de memoria ram": "6 GB",
-    "precio": 23990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/s/a/samsung-galaxy-a35-5g-azul-claro-01.webp",
-    "almacenamiento": "128 GB",
-    "camara": "Principal 50MP",
-    "procesador": "Exynos 1380"
-  },
-  {
-    "marca": "Apple",
-    "modelo": "iPhone 13",
-    "capacidad de memoria ram": "4 GB",
-    "precio": 45990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/i/p/iphone-13-azul-01.webp",
-    "almacenamiento": "128 GB",
-    "camara": "Dual 12MP",
-    "procesador": "A15 Bionic"
-  },
-  {
-    "marca": "Honor",
-    "modelo": "X8b",
-    "capacidad de memoria ram": "8 GB",
-    "precio": 17490,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/h/o/honor-x8b-plata-titanio-01.webp",
-    "almacenamiento": "256 GB",
-    "camara": "Principal 108MP",
-    "procesador": "Snapdragon 680"
-  },
-  {
-    "marca": "Samsung",
-    "modelo": "Galaxy A25",
-    "capacidad de memoria ram": "6 GB",
-    "precio": 18490,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/s/a/samsung-galaxy-a25-5g-azul-oscuro-01.webp",
-    "almacenamiento": "128 GB",
-    "camara": "Principal 50MP",
-    "procesador": "Exynos 1280"
-  },
-  {
-    "marca": "Honor",
-    "modelo": "X7b",
-    "capacidad de memoria ram": "8 GB",
-    "precio": 14990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/h/o/honor-x7b-plata-floreado-01.webp",
-    "almacenamiento": "256 GB",
-    "camara": "Principal 108MP",
-    "procesador": "Snapdragon 680"
-  },
-  {
-    "marca": "ZTE",
-    "modelo": "Blade V50 Design",
-    "capacidad de memoria ram": "8 GB",
-    "precio": 9990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/z/t/zte-blade-v50-design-negro-diamante-01.webp",
-    "almacenamiento": "256 GB",
-    "camara": "Principal 50MP",
-    "procesador": "Unisoc T606"
-  },
-  {
-    "marca": "Samsung",
-    "modelo": "Galaxy A15",
-    "capacidad de memoria ram": "4 GB",
-    "precio": 12990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/s/a/samsung-galaxy-a15-azul-oscuro-01.webp",
-    "almacenamiento": "128 GB",
-    "camara": "Principal 50MP",
-    "procesador": "Helio G99"
-  },
-  {
-    "marca": "Honor",
-    "modelo": "X6a",
-    "capacidad de memoria ram": "4 GB",
-    "precio": 9990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/h/o/honor-x6a-plata-01.webp",
-    "almacenamiento": "128 GB",
-    "camara": "Principal 50MP",
-    "procesador": "Helio G36"
-  },
-  {
-    "marca": "TCL",
-    "modelo": "40 SE",
-    "capacidad de memoria ram": "6 GB",
-    "precio": 10490,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/t/c/tcl-40-se-gris-oscuro-01.webp",
-    "almacenamiento": "256 GB",
-    "camara": "Principal 50MP",
-    "procesador": "Helio G37"
-  },
-  {
-    "marca": "ZTE",
-    "modelo": "Blade A73",
-    "capacidad de memoria ram": "4 GB",
-    "precio": 8490,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/z/t/zte-blade-a73-gris-01.webp",
-    "almacenamiento": "128 GB",
-    "camara": "Principal 50MP",
-    "procesador": "Unisoc T606"
-  },
-  {
-    "marca": "Samsung",
-    "modelo": "Galaxy A05s",
-    "capacidad de memoria ram": "4 GB",
-    "precio": 11490,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/s/a/samsung-galaxy-a05s-negro-01.webp",
-    "almacenamiento": "128 GB",
-    "camara": "Principal 50MP",
-    "procesador": "Snapdragon 680"
-  },
-  {
-    "marca": "Apple",
-    "modelo": "iPhone 11",
-    "capacidad de memoria ram": "4 GB",
-    "precio": 29990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/i/p/iphone-11-negro-01.webp",
-    "almacenamiento": "64 GB",
-    "camara": "Dual 12MP",
-    "procesador": "A13 Bionic"
-  },
-  {
-    "marca": "ZTE",
-    "modelo": "Blade A54",
-    "capacidad de memoria ram": "4 GB",
-    "precio": 6490,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/z/t/zte-blade-a54-gris-01.webp",
-    "almacenamiento": "128 GB",
-    "camara": "Principal 13MP",
-    "procesador": "Unisoc SC9863A"
-  },
-  {
-    "marca": "TCL",
-    "modelo": "408",
-    "capacidad de memoria ram": "4 GB",
-    "precio": 7990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/t/c/tcl-408-gris-01.webp",
-    "almacenamiento": "64 GB",
-    "camara": "Principal 50MP",
-    "procesador": "Helio G25"
-  },
-  {
-    "marca": "Samsung",
-    "modelo": "Galaxy A05",
-    "capacidad de memoria ram": "4 GB",
-    "precio": 9490,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/s/a/samsung-galaxy-a05-negro-01.webp",
-    "almacenamiento": "64 GB",
-    "camara": "Principal 50MP",
-    "procesador": "Helio G85"
-  },
-  {
-    "marca": "Yezz",
-    "modelo": "Max 2 Plus",
-    "capacidad de memoria ram": "2 GB",
-    "precio": 4990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/y/e/yezz-max-2-plus-negro-01.webp",
-    "almacenamiento": "32 GB",
-    "camara": "Principal 8MP",
-    "procesador": "Quad-Core 1.3 GHz"
-  },
-  {
-    "marca": "Logic",
-    "modelo": "L65",
-    "capacidad de memoria ram": "2 GB",
-    "precio": 4990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/l/o/logic-l65-negro-01.webp",
-    "almacenamiento": "32 GB",
-    "camara": "Principal 8MP",
-    "procesador": "Quad-Core 1.3 GHz"
-  },
-  {
-    "marca": "Alcatel",
-    "modelo": "1B",
-    "capacidad de memoria ram": "2 GB",
-    "precio": 4490,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/a/l/alcatel-1b-negro-01.webp",
-    "almacenamiento": "32 GB",
-    "camara": "Principal 8MP",
-    "procesador": "QM215"
-  },
-  {
-    "marca": "Krip",
-    "modelo": "K55",
-    "capacidad de memoria ram": "2 GB",
-    "precio": 4190,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/k/r/krip-k55-negro-01.webp",
-    "almacenamiento": "32 GB",
-    "camara": "Principal 8MP",
-    "procesador": "Quad-Core 1.3 GHz"
-  },
-  {
-    "marca": "LOGIC",
-    "modelo": "L56",
-    "capacidad de memoria ram": "1 GB",
-    "precio": 3290,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/l/o/logic-l56-negro-01.webp",
-    "almacenamiento": "16 GB",
-    "camara": "Principal 5MP",
-    "procesador": "Quad-Core 1.3 GHz"
-  },
-  {
-    "marca": "ZTE",
-    "modelo": "Blade L220",
-    "capacidad de memoria ram": "1 GB",
-    "precio": 3590,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/z/t/zte-blade-l220-azul-01.webp",
-    "almacenamiento": "32 GB",
-    "camara": "Principal 5MP",
-    "procesador": "SC7731E"
-  },
-  {
-    "marca": "Krip",
-    "modelo": "K4",
-    "capacidad de memoria ram": "1 GB",
-    "precio": 2990,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/k/r/krip-k4-negro-01.webp",
-    "almacenamiento": "8 GB",
-    "camara": "Principal 5MP",
-    "procesador": "Quad-Core 1.3 GHz"
-  },
-  {
-    "marca": "Avvio",
-    "modelo": "A50",
-    "capacidad de memoria ram": "1 GB",
-    "precio": 3290,
-    "url de la imagen": "https://tienda.altice.com.do/media/catalog/product/a/v/avvio-a50-negro-01.webp",
-    "almacenamiento": "32 GB",
-    "camara": "Principal 5MP",
-    "procesador": "SC7731E"
+    "Marca": "Samsung",
+    "Modelo": "Galaxy A26",
+    "Imagen": "https://es.digitaltrends.com/wp-content/uploads/2025/05/001-galaxy-a26-5g-black-front.jpg?resize=1200%2C720&p=1",
+    "Procesador": "Octacore @ 2.4GHz & 2.0GHz",
+    "RAM": "8GB",
+    "Almacenamiento": "256 GB",
+    "Camara": "50MP",
+    "Precio": 18490.00
   }
 ]
