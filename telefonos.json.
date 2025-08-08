@@ -1,6 +1,26 @@
 [
   {
     "Marca": "Samsung",
+    "Modelo": "Galaxy Z Flip5",
+    "Imagen": "https://electrorenover.com/wp-content/uploads/2023/09/z-flip5-grafito.jpg",
+    "Procesador": "Snapdragon 8 Gen 2 for Galaxy",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "12MP + 12MP",
+    "Precio": 68990.00
+  },
+  {
+    "Marca": "Redmi",
+    "Modelo": "Note 13",
+    "Imagen": "https://www.celulares.com/fotos/xiaomi-redmi-note-13-97395-g-alt.jpg",
+    "Procesador": "Snapdragon 685",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "108MP",
+    "Precio": 14990.00
+  },
+  {
+    "Marca": "Samsung",
     "Modelo": "Galaxy S24 Ultra",
     "Imagen": "https://m.media-amazon.com/images/I/717Q2swzhBL._UF1000,1000_QL80_.jpg",
     "Procesador": "Snapdragon 8 Gen 3 for Galaxy",
@@ -8,36 +28,6 @@
     "Almacenamiento": "512 GB",
     "Camara": "200 MP con IA",
     "Precio": 94990.00
-  },
-  {
-    "Marca": "APPLE",
-    "Modelo": "IPHONE 13",
-    "Imagen": "https://www.hemfrance.com/29679-large_default/iphone-13-61-512-gb-4-gb-ram-rojo.jpg",
-    "Procesador": "A15 Bionic",
-    "RAM": "4GB",
-    "Almacenamiento": "128GB",
-    "Camara": "12MP",
-    "Precio": 49790.01
-  },
-  {
-    "Marca": "APPLE",
-    "Modelo": "IPHONE 14 PRO MAX",
-    "Imagen": "https://cdn.hooli.com.do/wp-content/uploads/2024/06/25193430/front-5.png",
-    "RAM": "6GB",
-    "Almacenamiento": "256 GB",
-    "Camara": "48 + 12 + 12 Mpx",
-    "Procesador": "Apple A16 Bionic",
-    "Precio": 72850.00
-  },
-  {
-    "Marca": "APPLE",
-    "Modelo": "IPHONE 15 PRO MAX",
-    "Imagen": "https://cdn.hooli.com.do/wp-content/uploads/2024/11/06115231/front-4.jpg",
-    "RAM": "8GB",
-    "Almacenamiento": "256GB",
-    "Camara": "48MP",
-    "Procesador": "A17 Pro",
-    "Precio": 91290.00
   },
   {
     "Marca": "APPLE",
@@ -50,16 +40,6 @@
     "Precio": 67990.00
   },
   {
-    "Marca": "Samsung",
-    "Modelo": "Galaxy A26",
-    "Imagen": "https://es.digitaltrends.com/wp-content/uploads/2025/05/001-galaxy-a26-5g-black-front.jpg?resize=1200%2C720&p=1",
-    "Procesador": "Octacore @ 2.4GHz & 2.0GHz",
-    "RAM": "8GB",
-    "Almacenamiento": "256 GB",
-    "Camara": "50MP",
-    "Precio": 18490.00
-  },
-  {
     "Marca": "SAMSUNG",
     "Modelo": "GALAXY A22",
     "Imagen": "https://m.media-amazon.com/images/I/61Bp1BiBMjL._AC_SX679_.jpg",
@@ -68,6 +48,76 @@
     "Almacenamiento": "64GB | 128GB",
     "Camara": "48.0 MP",
     "Precio": 8500.00
+  },
+  {
+    "Marca": "Samsung",
+    "Modelo": "Galaxy A55",
+    "Imagen": "https://img.global.news.samsung.com/mx/wp-content/uploads/2024/03/Galaxy-A55-5G-and-A35-5G_main1.jpg",
+    "Procesador": "Exynos 1480",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "50MP + 12MP + 5MP",
+    "Precio": 29990.00
+  },
+  {
+    "Marca": "APPLE",
+    "Modelo": "IPHONE 15 PRO MAX",
+    "Imagen": "https://cdn.hooli.com.do/wp-content/uploads/2024/11/06115231/front-4.jpg",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "48MP",
+    "Procesador": "A17 Pro",
+    "Precio": 91290.00
+  },
+  {
+    "Marca": "Redmi",
+    "Modelo": "Note 13 Pro+ 5G",
+    "Imagen": "https://xtremerd.com/wp-content/uploads/2024/02/Redmi-Note-13Pro-Negro-1.jpg",
+    "Procesador": "Dimensity 7200-Ultra",
+    "RAM": "12GB",
+    "Almacenamiento": "512GB",
+    "Camara": "200MP",
+    "Precio": 27990.00
+  },
+  {
+    "Marca": "Xiaomi",
+    "Modelo": "13T",
+    "Imagen": "https://www.celulares.com/fotos/xiaomi-13t-97289-g-alt.jpg",
+    "Procesador": "Dimensity 8200 Ultra",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "50MP Leica",
+    "Precio": 38990.00
+  },
+  {
+    "Marca": "HONOR",
+    "Modelo": "HONOR 200 LITE",
+    "Imagen": "https://www.honor.com/content/dam/honor/es/products/smartphone/honor-200-lite/assets/honor200lite-share.png",
+    "Procesador": "Dimensity 6080",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "108MP",
+    "Precio": 19490.00
+  },
+  {
+    "Marca": "APPLE",
+    "Modelo": "IPHONE 14 PRO MAX",
+    "Imagen": "https://cdn.hooli.com.do/wp-content/uploads/2024/06/25193430/front-5.png",
+    "RAM": "6GB",
+    "Almacenamiento": "256 GB",
+    "Camara": "48 + 12 + 12 Mpx",
+    "Procesador": "Apple A16 Bionic",
+    "Precio": 72850.00
+  },
+  {
+    "Marca": "Samsung",
+    "Modelo": "Galaxy S23 FE",
+    "Imagen": "https://www.celulares.com/fotos/samsung-galaxy-s23-fe-97319-g-alt.jpg",
+    "Procesador": "Exynos 2200",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "50MP",
+    "Precio": 44990.00
   },
   {
     "Marca": "SAMSUNG",
@@ -81,28 +131,28 @@
   },
   {
     "Marca": "HONOR",
-    "Modelo": "HONOR 200 LITE",
-    "Imagen": "https://www.honor.com/content/dam/honor/es/products/smartphone/honor-200-lite/assets/honor200lite-share.png",
-    "Procesador": "Dimensity 6080",
-    "RAM": "8GB",
-    "Almacenamiento": "256GB",
-    "Camara": "108MP",
-    "Precio": 19490.00
+    "Modelo": "Magic6 Pro",
+    "Imagen": "https://cdn-files.kimovil.com/default/0009/72/thumb_871015_default_big.jpg",
+    "Procesador": "Snapdragon 8 Gen 3",
+    "RAM": "12GB",
+    "Almacenamiento": "512GB",
+    "Camara": "50MP + 50MP + 180MP",
+    "Precio": 74990.00
   },
   {
-    "Marca": "Samsung",
-    "Modelo": "Galaxy A55",
-    "Imagen": "",
-    "Procesador": "Exynos 1480",
-    "RAM": "8GB",
-    "Almacenamiento": "256GB",
-    "Camara": "50MP + 12MP + 5MP",
-    "Precio": 29990.00
+    "Marca": "APPLE",
+    "Modelo": "IPHONE 13",
+    "Imagen": "https://www.hemfrance.com/29679-large_default/iphone-13-61-512-gb-4-gb-ram-rojo.jpg",
+    "Procesador": "A15 Bionic",
+    "RAM": "4GB",
+    "Almacenamiento": "128GB",
+    "Camara": "12MP",
+    "Precio": 49790.01
   },
   {
     "Marca": "Xiaomi",
-    "Modelo": "14",
-    "Imagen": "",
+    "Modelo": "14 Pro",
+    "Imagen": "https://files.refurbed.com/ii/xiaomi-14-1713250553688402866.jpg?t=fitdesign&h=600&w=800",
     "Procesador": "Snapdragon 8 Gen 3",
     "RAM": "12GB",
     "Almacenamiento": "512GB",
@@ -110,19 +160,9 @@
     "Precio": 59990.00
   },
   {
-    "Marca": "Redmi",
-    "Modelo": "Note 13 Pro+ 5G",
-    "Imagen": "",
-    "Procesador": "Dimensity 7200-Ultra",
-    "RAM": "12GB",
-    "Almacenamiento": "512GB",
-    "Camara": "200MP",
-    "Precio": 27990.00
-  },
-  {
     "Marca": "APPLE",
     "Modelo": "IPHONE SE (2022)",
-    "Imagen": "",
+    "Imagen": "https://www.celulares.com/fotos/apple-iphone-se-2022-93431-g-alt.jpg",
     "Procesador": "A15 Bionic",
     "RAM": "4GB",
     "Almacenamiento": "128GB",
@@ -131,48 +171,8 @@
   },
   {
     "Marca": "HONOR",
-    "Modelo": "Magic6 Pro",
-    "Imagen": "",
-    "Procesador": "Snapdragon 8 Gen 3",
-    "RAM": "12GB",
-    "Almacenamiento": "512GB",
-    "Camara": "50MP + 50MP + 180MP",
-    "Precio": 74990.00
-  },
-  {
-    "Marca": "Samsung",
-    "Modelo": "Galaxy Z Flip5",
-    "Imagen": "",
-    "Procesador": "Snapdragon 8 Gen 2 for Galaxy",
-    "RAM": "8GB",
-    "Almacenamiento": "256GB",
-    "Camara": "12MP + 12MP",
-    "Precio": 68990.00
-  },
-  {
-    "Marca": "Redmi",
-    "Modelo": "13C",
-    "Imagen": "",
-    "Procesador": "Helio G85",
-    "RAM": "8GB",
-    "Almacenamiento": "256GB",
-    "Camara": "50MP",
-    "Precio": 9990.00
-  },
-  {
-    "Marca": "Xiaomi",
-    "Modelo": "13T",
-    "Imagen": "",
-    "Procesador": "Dimensity 8200 Ultra",
-    "RAM": "8GB",
-    "Almacenamiento": "256GB",
-    "Camara": "50MP Leica",
-    "Precio": 38990.00
-  },
-  {
-    "Marca": "HONOR",
     "Modelo": "X8b",
-    "Imagen": "",
+    "Imagen": "https://xtremerd.com/wp-content/uploads/2024/07/hono-x8b.jpg",
     "Procesador": "Snapdragon 680",
     "RAM": "8GB",
     "Almacenamiento": "256GB",
@@ -181,22 +181,22 @@
   },
   {
     "Marca": "Samsung",
-    "Modelo": "Galaxy S23 FE",
-    "Imagen": "",
-    "Procesador": "Exynos 2200",
+    "Modelo": "Galaxy A26",
+    "Imagen": "https://es.digitaltrends.com/wp-content/uploads/2025/05/001-galaxy-a26-5g-black-front.jpg?resize=1200%2C720&p=1",
+    "Procesador": "Octacore @ 2.4GHz & 2.0GHz",
     "RAM": "8GB",
-    "Almacenamiento": "256GB",
+    "Almacenamiento": "256 GB",
     "Camara": "50MP",
-    "Precio": 44990.00
+    "Precio": 18490.00
   },
   {
     "Marca": "Redmi",
-    "Modelo": "Note 13",
-    "Imagen": "",
-    "Procesador": "Snapdragon 685",
+    "Modelo": "13C",
+    "Imagen": "https://www.celulares.com/fotos/xiaomi-redmi-13c-97387-g-alt.jpg",
+    "Procesador": "Helio G85",
     "RAM": "8GB",
     "Almacenamiento": "256GB",
-    "Camara": "108MP",
-    "Precio": 14990.00
+    "Camara": "50MP",
+    "Precio": 9990.00
   }
 ]
