@@ -26,7 +26,7 @@
     "RAM": "6GB",
     "Almacenamiento": "256 GB",
     "Camara": "48 + 12 + 12 Mpx",
-    "Procesador": "Apple A16 Bionic Hexa-core (4 nm)",
+    "Procesador": "Apple A16 Bionic",
     "Precio": 72850.00
   },
   {
@@ -46,7 +46,7 @@
     "RAM": "6GB",
     "Almacenamiento": "256 GB",
     "Camara": "48 + 12 Mpx",
-    "Procesador": "",
+    "Procesador": "A16 Bionic",
     "Precio": 67990.00
   },
   {
@@ -63,7 +63,7 @@
     "Marca": "SAMSUNG",
     "Modelo": "GALAXY A22",
     "Imagen": "https://m.media-amazon.com/images/I/61Bp1BiBMjL._AC_SX679_.jpg",
-    "Procesador": "Octa-Core 2GHz, 1.8GHz",
+    "Procesador": "Helio G80",
     "RAM": "4GB | 6GB",
     "Almacenamiento": "64GB | 128GB",
     "Camara": "48.0 MP",
@@ -73,7 +73,7 @@
     "Marca": "SAMSUNG",
     "Modelo": "GALAXY S25 ULTRA",
     "Imagen": "https://casacuesta.com/media/catalog/product/cache/fde49a4ea9a339628caa0bc56aea00ff/3/3/3351064-1__1741045029.jpg",
-    "Procesador": "Octa-Core @ 4.47GHz & 3.53GHz",
+    "Procesador": "Snapdragon 8 Gen 4 (Estimado)",
     "RAM": "12GB",
     "Almacenamiento": "512GB",
     "Camara": "200MP",
@@ -83,10 +83,120 @@
     "Marca": "HONOR",
     "Modelo": "HONOR 200 LITE",
     "Imagen": "https://www.honor.com/content/dam/honor/es/products/smartphone/honor-200-lite/assets/honor200lite-share.png",
-    "Procesador": "Octa Core @2.4GHz & 2.0GHz",
-    "RAM": "8GB + 8GB",
+    "Procesador": "Dimensity 6080",
+    "RAM": "8GB",
     "Almacenamiento": "256GB",
     "Camara": "108MP",
     "Precio": 19490.00
+  },
+  {
+    "Marca": "Samsung",
+    "Modelo": "Galaxy A55",
+    "Imagen": "",
+    "Procesador": "Exynos 1480",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "50MP + 12MP + 5MP",
+    "Precio": 29990.00
+  },
+  {
+    "Marca": "Xiaomi",
+    "Modelo": "14",
+    "Imagen": "",
+    "Procesador": "Snapdragon 8 Gen 3",
+    "RAM": "12GB",
+    "Almacenamiento": "512GB",
+    "Camara": "50MP Leica",
+    "Precio": 59990.00
+  },
+  {
+    "Marca": "Redmi",
+    "Modelo": "Note 13 Pro+ 5G",
+    "Imagen": "",
+    "Procesador": "Dimensity 7200-Ultra",
+    "RAM": "12GB",
+    "Almacenamiento": "512GB",
+    "Camara": "200MP",
+    "Precio": 27990.00
+  },
+  {
+    "Marca": "APPLE",
+    "Modelo": "IPHONE SE (2022)",
+    "Imagen": "",
+    "Procesador": "A15 Bionic",
+    "RAM": "4GB",
+    "Almacenamiento": "128GB",
+    "Camara": "12MP",
+    "Precio": 29990.00
+  },
+  {
+    "Marca": "HONOR",
+    "Modelo": "Magic6 Pro",
+    "Imagen": "",
+    "Procesador": "Snapdragon 8 Gen 3",
+    "RAM": "12GB",
+    "Almacenamiento": "512GB",
+    "Camara": "50MP + 50MP + 180MP",
+    "Precio": 74990.00
+  },
+  {
+    "Marca": "Samsung",
+    "Modelo": "Galaxy Z Flip5",
+    "Imagen": "",
+    "Procesador": "Snapdragon 8 Gen 2 for Galaxy",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "12MP + 12MP",
+    "Precio": 68990.00
+  },
+  {
+    "Marca": "Redmi",
+    "Modelo": "13C",
+    "Imagen": "",
+    "Procesador": "Helio G85",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "50MP",
+    "Precio": 9990.00
+  },
+  {
+    "Marca": "Xiaomi",
+    "Modelo": "13T",
+    "Imagen": "",
+    "Procesador": "Dimensity 8200 Ultra",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "50MP Leica",
+    "Precio": 38990.00
+  },
+  {
+    "Marca": "HONOR",
+    "Modelo": "X8b",
+    "Imagen": "",
+    "Procesador": "Snapdragon 680",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "108MP",
+    "Precio": 17490.00
+  },
+  {
+    "Marca": "Samsung",
+    "Modelo": "Galaxy S23 FE",
+    "Imagen": "",
+    "Procesador": "Exynos 2200",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "50MP",
+    "Precio": 44990.00
+  },
+  {
+    "Marca": "Redmi",
+    "Modelo": "Note 13",
+    "Imagen": "",
+    "Procesador": "Snapdragon 685",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB",
+    "Camara": "108MP",
+    "Precio": 14990.00
   }
 ]
